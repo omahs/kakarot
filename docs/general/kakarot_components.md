@@ -38,7 +38,7 @@ The Ethereum protocol defines two kind of accounts:
 - Contract Accounts (CA): accounts managed by their stored code (smart
   contracts)
 
-Each of these account has a given Starknet contract class counterpart in
+Each of these accounts has a given Starknet contract class counterpart in
 Kakarot.
 
 In the EVM, each account (EOA or CA) is located at an address and has the
